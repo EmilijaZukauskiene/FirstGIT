@@ -1,0 +1,3 @@
+Dolly,12,black
+Jimi,3,white
+Beke,5,brown
