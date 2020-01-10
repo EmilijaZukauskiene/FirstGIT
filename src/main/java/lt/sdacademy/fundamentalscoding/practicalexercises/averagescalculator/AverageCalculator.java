@@ -1,10 +1,11 @@
-/*package lt.sdacademy.fundamentalscoding.practicalexercises;
+package lt.sdacademy.fundamentalscoding.practicalexercises.averagescalculator;
 
 import java.util.Arrays;
 import java.util.List;
 
 public class AverageCalculator {
     public static void main(String[] args) {
+
         List<Integer> integers = Arrays.asList(1, 2, 32, 4, 5, 1);
         integers.add(123);
         // integers.indexOf(13);
@@ -15,15 +16,13 @@ public class AverageCalculator {
         for (Integer number : integers) {
             sum += number; // = sum=sum+number
         }
-       /* average = sum / integers.size();
+        average = sum / integers.size();
 
-        System.out.println("Vidurkis: " + average);*/
+    //    System.out.println("Vidurkis: " + average);
 
-        /*System.out.println(sum);
-        double average = (double) sum / integers.size();
+       System.out.println(sum);
+       //double average = (double) sum / integers.size();
 
-        System.out.printf("Vidurkis:%.2f", average);
+      System.out.printf("Vidurkis:%.2f", average);
     }
 }
-
-*/

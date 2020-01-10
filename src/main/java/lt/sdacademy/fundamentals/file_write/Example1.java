@@ -8,7 +8,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 public class Example1 {
-    private static final  String OUTPUT_FILE_LOCATION = "C:\\Users\\Emilija\\IdeaProjects\\FirstProject\\src\\main\\java\\lt\\sdacademy\\fundamentals\\file_write";
+    private static final  String OUTPUT_FILE_LOCATION = "C:\\Users\\Emilija\\IdeaProjects\\FirstProject\\src\\main\\java\\lt\\sdacademy\\fundamentals\\file_write.txt";
 
     public static void main (String[] args) {
         String text = "Good morning!";

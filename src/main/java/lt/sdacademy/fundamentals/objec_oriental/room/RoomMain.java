@@ -10,9 +10,9 @@ public class RoomMain {
         int width = scanner.nextInt();
 
         System.out.println("Iveskite kambario ploti");
-        int lenght = scanner.nextInt();
+        int length = scanner.nextInt();
 
-        Room room = new Room(width, lenght);
+        Room room = new Room(width, length);
 
         // int square0fRoom = room.getLength() * room.getWidth();
         int square0fRoom = getSquareOfRoom(room.getLength(), room.getWidth()); //susikurem funkcija- getScquareOfRoom, kintamojo pavadinimas - squareOfRoom
