@@ -1,4 +1,4 @@
-/*package lt.sdacademy.fundamentals_Testing.fridge;
+package lt.sdacademy.fundamentals_Testing.fridge;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -14,11 +14,11 @@ public class Fridge {
     public void take(String item) throws NoSuchltemExeption {
         boolean result = food.remove(item);
         if(!result){
-            throw  new NoSuchItemException (item + " not found in the fridge");
+            throw  new NoSuchltemExeption (item + " not found in the fridge");
         }
     }
     public int getFridgeSize(){
         return food.size();
     }
-}*/
+}
 

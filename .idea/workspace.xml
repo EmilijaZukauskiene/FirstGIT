@@ -2,209 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c26b7359-a527-4457-afd5-ad09b699b6ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_1_10_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals_Testing/calculator/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals_Testing/fridge/Fridge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals_Testing/fridge/NoSuchltemExeption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals_Testing/tdd/Euro1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals_Testing/temperature_Converter/Farenheit_Celcius_Conerter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fundamentals/assertJ/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fundamentals/basics/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fundamentals/basics/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fundamentals/basics/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fundamentals/basics/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fundamentals/basics/Example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fundamentals/basics/Example6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fundamentals/basics/Example7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fundamentals/fridge/Food_Testing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fundamentals/mockito/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fundamentals/tdd/Euro_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fundamentals/temperature_Converter/Converter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/algorithsanddatastructure/algorithms/array_reverse/Array_Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/algorithsanddatastructure/algorithms/biggest_command_advisor/Biggest_Command_Divisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/algorithsanddatastructure/algorithms/binnary_search/Find_Number_In_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/algorithsanddatastructure/algorithms/secondSmallestInArray/SecondSmallestInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/algorithsanddatastructure/algorithms/sorting/Bubble_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/algorithsanddatastructure/algorithms/sorting/Insertion_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/algorithsanddatastructure/algorithms/stack/CustomStack2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/algorithsanddatastructure/algorithms/stack/Main2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstProject/META-INF/FirstProject.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/calculator/CalculatorMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/calculator/CalculatorMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/arrays/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/arrays/Example1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/arrays/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/arrays/Example2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/arrays/Example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/arrays/Example3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/date_time/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/date_time/Example1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/date_time/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/date_time/Example2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/file_read/bufferedreader/BufferedReaderExampleMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/file_read/bufferedreader/BufferedReaderExampleMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/file_read/filesreader/FilesReaderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/file_read/filesreader/FilesReaderMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/file_read/scanner/ScannerExampleMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/file_read/scanner/ScannerExampleMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/file_write/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/file_write/Example1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/objec_oriental/room/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/objec_oriental/room/Room.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/objec_oriental/room/RoomMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/objec_oriental/room/RoomMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentalscoding/practicalexercises/averagescalculator/AverageCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentalscoding/practicalexercises/averagescalculator/AverageCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentalscoding/practicalexercises/bookEndAuthors/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentalscoding/practicalexercises/bookEndAuthors/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentalscoding/practicalexercises/bookEndAuthors/BookAndAuthorsMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentalscoding/practicalexercises/bookEndAuthors/BookAndAuthorsMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentalscoding/practicalexercises/bookEndAuthors/BooksData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentalscoding/practicalexercises/bookEndAuthors/BooksData.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentalscoding/practicalexercises/maxvalue/MaxValueSearchMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentalscoding/practicalexercises/maxval/MaxValueSearchMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentalscoding/practicalexercises/worker/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentalscoding/practicalexercises/worker/Worker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentalscoding/practicalexercises/worker/WorkersMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentalscoding/practicalexercises/worker/WorkersMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FirstProject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/FirstProject.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/SandBoxMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/calculator/CalculatorMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/arrays/Example1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/arrays/Example2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/controlflow/ifelse/Example2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/controlflow/ifelse/Example3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/controlflow/switch_case/Example1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/date_time/Example1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/date_time/Example2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/enumerators/EnumClassExample1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/enumerators/EnumClassExample2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/enumerators/EnumExampleMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/file_read/Util.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/file_read/bufferedreader/BufferedReaderExampleMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/file_read/filesreader/FilesReaderMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/file_read/scanner/ScannerExampleMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/file_write/Example1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/loop/do_while/Example1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/loop/do_while/Example2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/loop/foor_iterator/Example1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/loop/for_each/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/loop/for_each/Example1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/loop/for_each/Example2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/loop/whileloop/Example1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/loop/whileloop/Example2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/objec_oriental/room/Room.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/objec_oriental/room/RoomMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/objec_oriental/room/circle/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/objec_oriental/room/circle/CircleMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/objecto_riental/bicycle/Bicycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/objecto_riental/bicycle/BicycleMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/regex/Example1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/varargs/Example1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/bookEndAuthors/Author.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/bookEndAuthors/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/bookEndAuthors/BooksData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/factorial/Factorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/triangles/Triangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/triangles/TriangleType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/triangles/TrianglesMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/triangles/triangle.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/triangles/trianglesData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/windspeed/WindSpeedMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/worker/Worker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/worker/WorkersData" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexisiesistogether/reversetext/Example1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexisiesistogether/reversetext/ReverseText.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexisiesistogether/reversetext/StringBuilderMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/homeWork/HomeWork1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/homeWork/HomeWork2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/homeWork/HomeWork3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/homeWork/HomeWork5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/homeWork2/No1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/homeWork2/car/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/homeWork2/car/CarMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/homeWork2/car/refactor/CarMainRefactored.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/homeWork2/dog/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/homeWork2/dog/DogMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/homeWork2/dog/refactored/DogMainRefactored.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/person/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/person/UserInput.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/out/production/FirstProject/META-INF/FirstProject.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/main/java/lt/sdacademy/fundamentals/enumerators/EnumClassExample1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/main/java/lt/sdacademy/fundamentals/enumerators/EnumClassExample2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/main/java/lt/sdacademy/fundamentals/enumerators/EnumExampleMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/main/java/lt/sdacademy/fundamentals/file_read/TextResourseTextFile.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/main/java/lt/sdacademy/fundamentals/file_write/Example1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/main/java/lt/sdacademy/fundamentalscoding/practicalexercises/averagescalculator/AverageCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/main/java/lt/sdacademy/fundamentalscoding/practicalexercises/bookEndAuthors/Author.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/main/java/lt/sdacademy/fundamentalscoding/practicalexercises/bookEndAuthors/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/main/java/lt/sdacademy/fundamentalscoding/practicalexercises/bookEndAuthors/BookAndAuthorsMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/main/java/lt/sdacademy/fundamentalscoding/practicalexercises/bookEndAuthors/BooksData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/main/java/lt/sdacademy/fundamentalscoding/practicalexercises/triangles/Triangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/main/java/lt/sdacademy/fundamentalscoding/practicalexercises/triangles/TriangleType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/main/java/lt/sdacademy/fundamentalscoding/practicalexercises/triangles/TrianglesMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/main/java/lt/sdacademy/fundamentalscoding/practicalexercises/triangles/triangle.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/main/java/lt/sdacademy/fundamentalscoding/practicalexercises/triangles/trianglesData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/main/java/lt/sdacademy/fundamentalscoding/practicalexercises/worker/Worker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/main/java/lt/sdacademy/fundamentalscoding/practicalexercises/worker/WorkersData" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/main/java/lt/sdacademy/fundamentalscoding/practicalexercises/worker/WorkersMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/main/java/lt/sdacademy/homeWork2/car/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/main/java/lt/sdacademy/homeWork2/car/CarMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/main/java/lt/sdacademy/homeWork2/car/refactor/CarData" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/main/java/lt/sdacademy/homeWork2/car/refactor/CarMainRefactored.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/main/java/lt/sdacademy/homeWork2/dog/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/main/java/lt/sdacademy/homeWork2/dog/refactored/DogMainRefactored.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/main/java/lt/sdacademy/homeWork2/dog/refactored/DogsData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/test/java/selenium/SeleniumTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/src/test/resources/driver/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/FirstProject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/META-INF/FirstProject.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/out/production/FirstProject/META-INF/FirstProject.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/src/main/java/lt/sdacademy/fundamentals/file_read/TextResourseTextFile.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/src/main/java/lt/sdacademy/homeWork2/dog/refactored/DogsData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/src/test/resources/driver/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/surefire-reports/TEST-selenium.SeleniumTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/surefire-reports/selenium.SeleniumTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/test-classes/driver/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/surefire-reports/TEST-selenium.SeleniumTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/surefire-reports/selenium.SeleniumTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/test-classes/driver/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-selenium.SeleniumTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/selenium.SeleniumTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/driver/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium/SeleniumTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals_Testing/fridge/Fridge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals_Testing/fridge/Fridge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals_Testing/fridge/NoSuchltemExeption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals_Testing/fridge/NoSuchltemExeption.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,6 +36,7 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -276,16 +85,16 @@
       <command value="maven" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Kambarts_Main">
-    <configuration name="Atgaline_Skaiciu_Seka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.pasikartojimas.atgaline_skaiciu_seka.Atgaline_Skaiciu_Seka" />
+  <component name="RunManager" selected="Application.SecondSmallestInArray">
+    <configuration name="Array_Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.algorithsanddatastructure.algorithms.array_reverse.Array_Reverse" />
       <module name="FirstProject" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CircleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.fundamentals.objec_oriental.room.circle.CircleMain" />
+    <configuration name="Biggest_Command_Divisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.algorithsanddatastructure.algorithms.biggest_command_advisor.Biggest_Command_Divisor" />
       <module name="FirstProject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -304,8 +113,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kambarts_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.pasikartojimas.kambarys.Kambarts_Main" />
+    <configuration name="Klase1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.pasikartojimas.algoritmai.Klase1" />
+      <module name="FirstProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Klase2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.pasikartojimas.algoritmai.Klase2" />
       <module name="FirstProject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -318,15 +134,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RoomMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.fundamentals.objec_oriental.room.RoomMain" />
-      <module name="FirstProject" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Spindulio_Plotas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.pasikartojimas.spindulys.Spindulio_Plotas" />
+    <configuration name="SecondSmallestInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.algorithsanddatastructure.algorithms.secondSmallestInArray.SecondSmallestInArray" />
       <module name="FirstProject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -341,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Kambarts_Main" />
-        <item itemvalue="Application.RoomMain" />
-        <item itemvalue="Application.Spindulio_Plotas" />
-        <item itemvalue="Application.CircleMain" />
-        <item itemvalue="Application.Atgaline_Skaiciu_Seka" />
+        <item itemvalue="Application.SecondSmallestInArray" />
+        <item itemvalue="Application.Array_Reverse" />
+        <item itemvalue="Application.Klase2" />
+        <item itemvalue="Application.Klase1" />
+        <item itemvalue="Application.Biggest_Command_Divisor" />
       </list>
     </recent_temporary>
   </component>
@@ -387,6 +196,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Project" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="361" y="76" key="#Project_Structure" timestamp="1576394468635">
       <screen x="0" y="0" width="1536" height="826" />
@@ -400,46 +213,74 @@
       <screen x="0" y="0" width="1536" height="826" />
     </state>
     <state x="574" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1536.826@0.0.1536.826" timestamp="1578265429002" />
-    <state x="464" y="344" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1576953780207">
+    <state x="464" y="344" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1578780950061">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state x="464" y="344" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.826@0.0.1536.826" timestamp="1576953780207" />
-    <state x="523" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1576965456311">
+    <state x="464" y="344" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.826@0.0.1536.826" timestamp="1578780950061" />
+    <state x="523" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1578692343270">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state x="523" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.826@0.0.1536.826" timestamp="1576965456311" />
+    <state x="523" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.826@0.0.1536.826" timestamp="1578692343270" />
     <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578352924126">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
     <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.826@0.0.1536.826" timestamp="1578352924126" />
+    <state x="335" y="13" key="CommitChangelistDialog2" timestamp="1578781577122">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="335" y="13" key="CommitChangelistDialog2/0.0.1536.826@0.0.1536.826" timestamp="1578781577122" />
     <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1577043748509">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
     <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.826@0.0.1536.826" timestamp="1577043748509" />
-    <state width="1478" height="254" key="GridCell.Tab.0.bottom" timestamp="1578689693492">
+    <state width="1492" height="147" key="GridCell.Tab.0.bottom" timestamp="1578781516127">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1478" height="254" key="GridCell.Tab.0.bottom/0.0.1536.826@0.0.1536.826" timestamp="1578689693492" />
-    <state width="1478" height="254" key="GridCell.Tab.0.center" timestamp="1578689693492">
+    <state width="1492" height="147" key="GridCell.Tab.0.bottom/0.0.1536.826@0.0.1536.826" timestamp="1578781516127" />
+    <state width="1492" height="147" key="GridCell.Tab.0.center" timestamp="1578781516127">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1478" height="254" key="GridCell.Tab.0.center/0.0.1536.826@0.0.1536.826" timestamp="1578689693492" />
-    <state width="1478" height="254" key="GridCell.Tab.0.left" timestamp="1578689693492">
+    <state width="1492" height="147" key="GridCell.Tab.0.center/0.0.1536.826@0.0.1536.826" timestamp="1578781516127" />
+    <state width="1492" height="147" key="GridCell.Tab.0.left" timestamp="1578781516127">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1478" height="254" key="GridCell.Tab.0.left/0.0.1536.826@0.0.1536.826" timestamp="1578689693492" />
-    <state width="1478" height="254" key="GridCell.Tab.0.right" timestamp="1578689693492">
+    <state width="1492" height="147" key="GridCell.Tab.0.left/0.0.1536.826@0.0.1536.826" timestamp="1578781516127" />
+    <state width="1492" height="147" key="GridCell.Tab.0.right" timestamp="1578781516127">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1478" height="254" key="GridCell.Tab.0.right/0.0.1536.826@0.0.1536.826" timestamp="1578689693492" />
+    <state width="1492" height="147" key="GridCell.Tab.0.right/0.0.1536.826@0.0.1536.826" timestamp="1578781516127" />
+    <state width="1478" height="251" key="GridCell.Tab.1.bottom" timestamp="1578742974644">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1478" height="251" key="GridCell.Tab.1.bottom/0.0.1536.826@0.0.1536.826" timestamp="1578742974644" />
+    <state width="1478" height="251" key="GridCell.Tab.1.center" timestamp="1578742974644">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1478" height="251" key="GridCell.Tab.1.center/0.0.1536.826@0.0.1536.826" timestamp="1578742974644" />
+    <state width="1478" height="251" key="GridCell.Tab.1.left" timestamp="1578742974644">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1478" height="251" key="GridCell.Tab.1.left/0.0.1536.826@0.0.1536.826" timestamp="1578742974644" />
+    <state width="1478" height="251" key="GridCell.Tab.1.right" timestamp="1578742974644">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1478" height="251" key="GridCell.Tab.1.right/0.0.1536.826@0.0.1536.826" timestamp="1578742974644" />
     <state x="279" y="0" key="SettingsEditor" timestamp="1576405793892">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
     <state x="279" y="0" key="SettingsEditor/0.0.1536.826@0.0.1536.826" timestamp="1576405793892" />
-    <state x="477" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1578264586635">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1578690185809">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state x="477" y="242" key="com.intellij.ide.util.TipDialog/0.0.1536.826@0.0.1536.826" timestamp="1578264586635" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.826@0.0.1536.826" timestamp="1578690185809" />
+    <state x="477" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1578773319162">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="477" y="242" key="com.intellij.ide.util.TipDialog/0.0.1536.826@0.0.1536.826" timestamp="1578773319162" />
+    <state x="580" y="333" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578690270668">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="580" y="333" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.826@0.0.1536.826" timestamp="1578690270668" />
     <state x="477" y="40" key="refactoring.ChangeSignatureDialog" timestamp="1578436441646">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
