@@ -2,17 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c26b7359-a527-4457-afd5-ad09b699b6ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/algorithsanddatastructure/algorithms/array_reverse/Array_Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/algorithsanddatastructure/algorithms/biggest_command_advisor/Biggest_Command_Divisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/algorithsanddatastructure/algorithms/binnary_search/Find_Number_In_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/algorithsanddatastructure/algorithms/secondSmallestInArray/SecondSmallestInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/algorithsanddatastructure/algorithms/sorting/Bubble_Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/algorithsanddatastructure/algorithms/sorting/Insertion_Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/algorithsanddatastructure/algorithms/stack/CustomStack2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/algorithsanddatastructure/algorithms/stack/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/collections/Map_Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/collections/Set_Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/inheritance/animals/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/inheritance/animals/AnimalsMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/inheritance/animals/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/inheritance/animals/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/inheritance/example1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/inheritance/example1/ExampleMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/inheritance/example1/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/inheritance/example2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/inheritance/example2/ExampleMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/inheritance/example2/Vechicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/object/pocket/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/object/pocket/Pocket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/enumerators/EnumClassExample3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals_Testing/fridge/Fridge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals_Testing/fridge/Fridge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals_Testing/fridge/NoSuchltemExeption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals_Testing/fridge/NoSuchltemExeption.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/enumerators/EnumExampleMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/enumerators/EnumExampleMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,16 +91,16 @@
       <command value="maven" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.SecondSmallestInArray">
-    <configuration name="Array_Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.algorithsanddatastructure.algorithms.array_reverse.Array_Reverse" />
+  <component name="RunManager" selected="Application.EnumExampleMain">
+    <configuration name="AnimalsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.advanced_features.inheritance.animals.AnimalsMain" />
       <module name="FirstProject" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Biggest_Command_Divisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.algorithsanddatastructure.algorithms.biggest_command_advisor.Biggest_Command_Divisor" />
+    <configuration name="EnumExampleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.fundamentals.enumerators.EnumExampleMain" />
       <module name="FirstProject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -113,15 +119,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Klase1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.pasikartojimas.algoritmai.Klase1" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.advanced_features.object.pocket.Main" />
       <module name="FirstProject" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Klase2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.pasikartojimas.algoritmai.Klase2" />
+    <configuration name="Map_Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.advanced_features.collections.Map_Example" />
       <module name="FirstProject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -134,8 +140,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondSmallestInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.algorithsanddatastructure.algorithms.secondSmallestInArray.SecondSmallestInArray" />
+    <configuration name="Set_Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.advanced_features.collections.Set_Example" />
       <module name="FirstProject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -150,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SecondSmallestInArray" />
-        <item itemvalue="Application.Array_Reverse" />
-        <item itemvalue="Application.Klase2" />
-        <item itemvalue="Application.Klase1" />
-        <item itemvalue="Application.Biggest_Command_Divisor" />
+        <item itemvalue="Application.EnumExampleMain" />
+        <item itemvalue="Application.Map_Example" />
+        <item itemvalue="Application.Set_Example" />
+        <item itemvalue="Application.AnimalsMain" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +204,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Project" />
+    <MESSAGE value="Algorithms" />
+    <option name="LAST_COMMIT_MESSAGE" value="Algorithms" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="76" key="#Project_Structure" timestamp="1576394468635">
@@ -209,18 +216,18 @@
       <screen x="0" y="0" width="1536" height="826" />
     </state>
     <state x="538" y="224" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.826@0.0.1536.826" timestamp="1577659824124" />
-    <state x="574" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1578265429002">
+    <state x="574" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1578815306367">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state x="574" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1536.826@0.0.1536.826" timestamp="1578265429002" />
+    <state x="574" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1536.826@0.0.1536.826" timestamp="1578815306367" />
     <state x="464" y="344" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1578780950061">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
     <state x="464" y="344" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.826@0.0.1536.826" timestamp="1578780950061" />
-    <state x="523" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1578692343270">
+    <state x="523" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1578815123740">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state x="523" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.826@0.0.1536.826" timestamp="1578692343270" />
+    <state x="523" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.826@0.0.1536.826" timestamp="1578815123740" />
     <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578352924126">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
@@ -233,22 +240,22 @@
       <screen x="0" y="0" width="1536" height="826" />
     </state>
     <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.826@0.0.1536.826" timestamp="1577043748509" />
-    <state width="1492" height="147" key="GridCell.Tab.0.bottom" timestamp="1578781516127">
+    <state width="1492" height="147" key="GridCell.Tab.0.bottom" timestamp="1578823650823">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1492" height="147" key="GridCell.Tab.0.bottom/0.0.1536.826@0.0.1536.826" timestamp="1578781516127" />
-    <state width="1492" height="147" key="GridCell.Tab.0.center" timestamp="1578781516127">
+    <state width="1492" height="147" key="GridCell.Tab.0.bottom/0.0.1536.826@0.0.1536.826" timestamp="1578823650823" />
+    <state width="1492" height="147" key="GridCell.Tab.0.center" timestamp="1578823650822">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1492" height="147" key="GridCell.Tab.0.center/0.0.1536.826@0.0.1536.826" timestamp="1578781516127" />
-    <state width="1492" height="147" key="GridCell.Tab.0.left" timestamp="1578781516127">
+    <state width="1492" height="147" key="GridCell.Tab.0.center/0.0.1536.826@0.0.1536.826" timestamp="1578823650822" />
+    <state width="1492" height="147" key="GridCell.Tab.0.left" timestamp="1578823650822">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1492" height="147" key="GridCell.Tab.0.left/0.0.1536.826@0.0.1536.826" timestamp="1578781516127" />
-    <state width="1492" height="147" key="GridCell.Tab.0.right" timestamp="1578781516127">
+    <state width="1492" height="147" key="GridCell.Tab.0.left/0.0.1536.826@0.0.1536.826" timestamp="1578823650822" />
+    <state width="1492" height="147" key="GridCell.Tab.0.right" timestamp="1578823650822">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1492" height="147" key="GridCell.Tab.0.right/0.0.1536.826@0.0.1536.826" timestamp="1578781516127" />
+    <state width="1492" height="147" key="GridCell.Tab.0.right/0.0.1536.826@0.0.1536.826" timestamp="1578823650822" />
     <state width="1478" height="251" key="GridCell.Tab.1.bottom" timestamp="1578742974644">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
@@ -269,18 +276,18 @@
       <screen x="0" y="0" width="1536" height="826" />
     </state>
     <state x="279" y="0" key="SettingsEditor/0.0.1536.826@0.0.1536.826" timestamp="1576405793892" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1578690185809">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1578781789513">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.826@0.0.1536.826" timestamp="1578690185809" />
-    <state x="477" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1578773319162">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.826@0.0.1536.826" timestamp="1578781789513" />
+    <state x="477" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1578812330125">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state x="477" y="242" key="com.intellij.ide.util.TipDialog/0.0.1536.826@0.0.1536.826" timestamp="1578773319162" />
-    <state x="580" y="333" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578690270668">
+    <state x="477" y="242" key="com.intellij.ide.util.TipDialog/0.0.1536.826@0.0.1536.826" timestamp="1578812330125" />
+    <state x="580" y="333" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578781868139">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state x="580" y="333" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.826@0.0.1536.826" timestamp="1578690270668" />
+    <state x="580" y="333" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.826@0.0.1536.826" timestamp="1578781868139" />
     <state x="477" y="40" key="refactoring.ChangeSignatureDialog" timestamp="1578436441646">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
