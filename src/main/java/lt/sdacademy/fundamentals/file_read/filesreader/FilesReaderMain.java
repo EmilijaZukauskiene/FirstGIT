@@ -9,6 +9,8 @@ import static lt.sdacademy.fundamentals.file_read.Util.FILE_LOCATION;
 
 public class FilesReaderMain {
 
+    public static final String FILE_LOCATION = "C:\\Users\\Emilija\\IdeaProjects\\FirstProject\\src\\main\\java\\lt\\sdacademy\\fundamentals\\file_read\\TextResourseTextFile.txt";
+
     public static void main(String[] args) {
         try {
             List<String> text = Files.readAllLines(Paths.get(FILE_LOCATION));

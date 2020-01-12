@@ -24,8 +24,8 @@ public class ScannerExampleMain {
             while (fileScanner.hasNext()) {
                 System.out.println(fileScanner.nextLine());
             }
-        } catch (IOException e){
+        } catch (IOException e) {
 
         }
-        }
     }
+}

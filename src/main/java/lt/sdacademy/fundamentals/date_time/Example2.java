@@ -13,8 +13,8 @@ public class Example2 {
         LocalDateTime.of(2015, Month.FEBRUARY, 20, 06, 30);
         LocalDateTime.parse("2015-02-20T06:30:00");
 
-        now = now.plusDays(1); // pridedama viena diena
-        now = now.minusHours(2); //minus dvi h.
+      /*  now = now.plusDays(1); // pridedama viena diena
+        now = now.minusHours(2); //minus dvi h.*/
 
         System.out.println(now.getMonth());
         System.out.println(now);

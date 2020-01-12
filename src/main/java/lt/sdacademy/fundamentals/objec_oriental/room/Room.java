@@ -4,9 +4,9 @@ public class Room {
     private int width;
     private int length;
 
-    public Room(int width, int height) {
+    public Room(int width, int length) {
         this.width = width;
-        this.length = height;
+        this.length = length;
     }
 
     public int getWidth() {

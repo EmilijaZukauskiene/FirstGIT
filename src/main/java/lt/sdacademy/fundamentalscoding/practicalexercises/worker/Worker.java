@@ -2,11 +2,11 @@ package lt.sdacademy.fundamentalscoding.practicalexercises.worker;
 
 public class Worker {
     private String name;
-    private Integer salary;
+    private double salary;
     private Integer age;
-    private String gender;
+    private char gender;
 
-    public Worker(String name, Integer salary,  Integer age, String gender ) {
+    public Worker(String name, double salary,  Integer age, char gender ) {
         this.name = name;
         this.salary = salary;
         this.age = age;
@@ -17,7 +17,7 @@ public class Worker {
         return name;
     }
 
-    public Integer getSalary() {
+    public double getSalary() {
         return salary;
     }
 
@@ -25,7 +25,7 @@ public class Worker {
         return age;
     }
 
-    public String getGender() {
+    public char getGender() {
         return gender;
     }
 }

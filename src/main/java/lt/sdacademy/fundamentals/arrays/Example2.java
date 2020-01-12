@@ -10,7 +10,7 @@ public class Example2 {
         array0fStrings[1]="Forest";
 
         for (String s: array0fStrings){
-            System.out.println();
+            System.out.println(s);
         }
     }
 }

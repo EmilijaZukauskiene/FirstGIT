@@ -15,10 +15,11 @@ public class Example1 {
             System.out.println(value);
         }
         for (int i = 0; i < array0fInts.length + 1; i++) {
-            //try {
-            System.out.println(array0fInts[i]);
-            /*   } catch (Exception e) {
-            //      System.out.println("KLAIDA"); /*Naudojama,kad programa nenuluztu ir neismestu error*/
+            try {
+                System.out.println(array0fInts[i]);
+            } catch (Exception e) {
+                System.out.println("KLAIDA"); /*Naudojama,kad programa nenuluztu ir neismestu error*/
+            }
         }
     }
 }

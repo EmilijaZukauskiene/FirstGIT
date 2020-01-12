@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class CalculatorMain {
     public static void main(String[] args) {
 
+        Scanner numberScanner = new Scanner(System.in);
         Scanner actionScanner = new Scanner(System.in);
 
         boolean calculateOn = true;
@@ -12,18 +13,18 @@ public class CalculatorMain {
 
         while (calculateOn) {
 
-            // System.out.println("Ivesk pirma skaiciu");
-            //   double firstNum = numberScanner.nextDouble();
+            System.out.println("Ivesk pirma skaiciu");
+            double firstNum = numberScanner.nextDouble();
 
-            double firstNum = getNum("Iveskite pirma skaiciu");
-            double secondNum = getNum("Iveskite pirma skaiciu");
-/*
             System.out.println("Ivesk antra skaiciu");
-            double secondNum = numberScanner.nextDouble();*/
+            double secondNum = numberScanner.nextDouble();
 
+              /*  double firstNum = getNum("Iveskite pirma skaiciu");
+            double secondNum = getNum("Iveskite antra skaiciu");*/
 
             System.out.println("Koki veiksma norite atlikti: + - / *");
             String action = actionScanner.nextLine();
+
 
             result = getResult(action, firstNum, secondNum); // funkcija!
 
@@ -35,6 +36,8 @@ public class CalculatorMain {
             if (userAnswerOnCalculation.equalsIgnoreCase("NE")) {
                 calculateOn = false;
             }
+        }
+    }
 
 
         /*if (action.equals("+")) {
@@ -54,8 +57,6 @@ public class CalculatorMain {
             calculate = false;
         }*/
 
-        }
-    }
 
     private static double getResult(String action, double num1, double num2) {
         switch (action) {
@@ -77,11 +78,12 @@ public class CalculatorMain {
             }
         }
     }
-
-    private static double getNum(String message) {
+}
+ /*   private static double getNum(String message) {
         Scanner numberScanner = new Scanner(System.in);
         System.out.println(message);
         double number = numberScanner.nextDouble();
         return number;
     }
 }
+*/

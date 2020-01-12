@@ -6,10 +6,10 @@ public class Book {
 
     private String title;
     private List<Author> authors;
-    private String price;
-    private String qnt;
+    private Double price;
+    private Integer qnt;
 
-    public Book(String title, List<Author> authors, String price, String qnt) {
+    public Book(String title, List<Author> authors, Double price, Integer qnt) {
 
         this.title = title;
         this.authors = authors;
