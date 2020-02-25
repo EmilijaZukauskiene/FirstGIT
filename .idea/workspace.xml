@@ -2,23 +2,252 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c26b7359-a527-4457-afd5-ad09b699b6ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/collections/Map_Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/collections/Set_Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/inheritance/animals/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/inheritance/animals/AnimalsMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/inheritance/animals/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/inheritance/animals/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/inheritance/example1/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/inheritance/example1/ExampleMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/inheritance/example1/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/inheritance/example2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/inheritance/example2/ExampleMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/inheritance/example2/Vechicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/object/pocket/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/object/pocket/Pocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/enumerators/EnumClassExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/abstract_examples/animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/abstract_examples/animal/AnimalsMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/abstract_examples/shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/abstract_examples/shape/File.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/abstract_examples/shape/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/abstract_examples/shape/RightAngleRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/abstract_examples/shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/abstract_examples/shape/ShapesMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/annotations/custom/HelloWorldMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/annotations/custom/MyAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/annotations/custom/VerifyCustomAnnotationMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/annotations/depricated/DepricatedMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/annotations/depricated/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/annotations/supresswarnings/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/annotations/toString/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/annotations/toString/Object1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/annotations/toString/Object2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/concurrency/example1/ConcurrencyExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/concurrency/example2/ConcurrencyExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/concurrency/example2/StopWatchThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/concurrency/example3/ConcurrencyExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/concurrency/example3/StopWatchTread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/concurrency/example4/ConcurrencyExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/concurrency/example4/StopWatchThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/concurrency/example5/Bench.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/concurrency/example5/BenchMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/concurrency/example5/SeatTakerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/concurrency/example6/ExecutorServiceExamplemain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/concurrency/example6/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/concurrency/example7/AtomicExampleMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/concurrency/example7/AtomicInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/concurrency/exercise1/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/concurrency/exercise1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/deliveries/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/deliveries/Courier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/deliveries/Data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/deliveries/Deliveries.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/deliveries/DeliveriesMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/deliveries/Gadget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/deliveries/GadgetType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/deliveries/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/deliveries/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/exeptions/custome_exeption/ArithmeticExeptionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/exeptions/custome_exeption/ArrayIndexOutOfBoundsExeptionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/exeptions/custome_exeption/CustomExeption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/exeptions/custome_exeption/CustomExeptionMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/exeptions/custome_exeption/IvykoAritmetineKlaida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/exeptions/custome_exeption/NullPointerExeptionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/exeptions/custome_exeption/StringIndexOutOfBoundsExeptionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/exeptions/exercises/Exeption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/findLongestSymbol/FindLongestSymbol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/generics/exercise1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/generics/exercise1/StoreGenericValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/generics/exercise2/GenericMethodMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/generics/exercise2/LastValueMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/generics/exercise3/TwoItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/generics/exercise3/TwoItemsMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/generics/genericClass/Example1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/generics/genericClass/Example1/GenericBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/generics/genericClass/Example1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/generics/genericClass/Example2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/generics/genericClass/Example2/Garage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/generics/genericClass/Example2/GarageMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/generics/genericClass/Example2/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/generics/genericInterface/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/generics/genericInterface/Comparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/generics/genericInterface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/interfaces/example1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/interfaces/example1/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/interfaces/example1/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/interfaces/example1/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/interfaces/example2/AirTransport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/interfaces/example2/Balloon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/interfaces/example2/Fly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/interfaces/example2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/interfaces/example2/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/interfaces/findReachest/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/interfaces/findReachest/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/interfaces/findReachest/Richest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/interfaces/findReachest/RichestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/interfaces/findReachest/World.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/json/fromJson/FromJsonExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/json/toJson/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/json/toJson/ToJsonExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/lambdaexpresion/example1/FunctionInterfaceExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/lambdaexpresion/example1/FunctionInterfaceExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/lambdaexpresion/example2/MethodReferenceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/lambdaexpresion/example2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/lambdaexpresion/example3/SupplierConsumerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/lambdaexpresion/example4/OperatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/lambdaexpresion/example5/BlockOfCodeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/nestedClasses/nonStaticClasses/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/nestedClasses/nonStaticClasses/NestedNonStatticExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/nestedClasses/staticClasses/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/nestedClasses/staticClasses/NestedStaticExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/optional/OptionalExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/streams/examples/FilterAndMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/streams/examples/FindExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/streams/examples/ForEachAndSortExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/streams/examples/MatchExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/streams/examples/ReduceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/streams/exercises/exercise1/Exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/streams/exercises/exercise2/Exercise2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/streams/exercises/exercise3/Exercise3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/streams/exercises/exercise4/EquilateralTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/streams/exercises/exercise4/RegularPolygon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/streams/exercises/exercise4/RegularPolygonMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/streams/exercises/exercise4/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/streams/exercises/personaldata/PersonalData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/streams/exercises/personaldata/PersonalData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/streams/exercises/personaldata/PersonalDataMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/streams/exercises/personaldata/Persons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features_coding/advance/exercise1/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features_coding/advance/exercise1/JavaDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features_coding/advance/exercise1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features_coding/advance/exercise1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features_coding/advance/exercise2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features_coding/advance/exercise2/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features_coding/advance/exercise2/Warehouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features_coding/advance/exercise3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features_coding/advance/exercise3/PersonalData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features_coding/advance/exercise3/PersonalInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features_coding/advance/exercise4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features_coding/advance/exercise4/model/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features_coding/advance/exercise4/model/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features_coding/advance/exercise4/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features_coding/advance/exercise4/model/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features_coding/advance/exercise4/services/IOService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features_coding/advance/exercise4/services/Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features_coding/advance/exercise5/map/Cities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features_coding/advance/exercise5/map/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features_coding/advance/exercise5/map/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features_coding/advance/exercise5/map/VocationPlans.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features_coding/warmup/exercise1/Exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features_coding/warmup/exercise1/dataDrinks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features_coding/warmup/exercise2/Exercise2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/abstractfactory/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/abstractfactory/example/factories/CapriciosaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/abstractfactory/example/factories/FruttiDiMareFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/abstractfactory/example/factories/MArgaritaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/abstractfactory/example/factories/PizzaAbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/abstractfactory/example/factories/PizzaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/abstractfactory/example/pizza/Capriciosa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/abstractfactory/example/pizza/FruttiDiMare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/abstractfactory/example/pizza/Margaritta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/abstractfactory/example/pizza/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/builder/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/builder/example/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/factorymethod/FactoryMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/factorymethod/example/Capriciosa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/factorymethod/example/FruttiDiMare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/factorymethod/example/Margarita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/factorymethod/example/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/factorymethod/example/PizzaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/singleton/example/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/singleton/example/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/structural/facade/AudioMixer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/structural/facade/BitrateReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/structural/facade/Codec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/structural/facade/CodecFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/structural/facade/Facade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/structural/facade/MPEG4CompressionCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/structural/facade/OggCompressionCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/structural/facade/VideoConversionFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/structural/facade/VideoFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/structural/flyweight/Flyweight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/structural/flyweight/Forest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/structural/flyweight/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/structural/flyweight/TreeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/structural/flyweight/TreeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/adapter/Adapteinfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/adapter/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/adapter/AdapterFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/adapter/RoundHole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/adapter/RoundPeg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/adapter/SquarePeg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/adapter/SquarePegAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/chainofresponsibilities/ChainOfResponsibilitiesMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/chainofresponsibilities/Middleware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/chainofresponsibilities/RoleCheckMiddleware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/chainofresponsibilities/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/chainofresponsibilities/ThrottlingMiddleware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/chainofresponsibilities/UserExistsMiddleware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/command/example/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/command/example/BucketSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/command/example/CommandInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/command/example/Controler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/command/example/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/command/example/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/command/example/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/command/shellSort/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/strategy/example/Cash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/strategy/example/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/strategy/example/Ingredient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/strategy/example/PaymentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/strategy/example/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/strategy/example/Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/templatemethod/TemplateMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/templatemethod/example/Capriciosa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/templatemethod/example/Margarita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/templatemethod/example/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/visitor/VisitorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/visitor/example/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/visitor/example/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/visitor/example/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/visitor/example/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/visitor/example/VisitorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/bridge/bridge/AdvancedRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/bridge/bridge/BasicRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/bridge/bridge/Bridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/bridge/bridge/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/bridge/bridge/Radio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/bridge/bridge/Remote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/bridge/bridge/Tv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/composite/BaseShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/composite/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/composite/Composite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/composite/CompoundShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/composite/Dot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/composite/ImageEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/composite/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/composite/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/decorator/Decorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/decorator/example/BasicPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/decorator/example/HamPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/decorator/example/MushroomsPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/decorator/example/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/decorator/example/PizzaDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/decorator/example/SeafoodPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/enumerators/EnumExampleMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/enumerators/EnumExampleMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/sandbox/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/SandBoxMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/sandbox/SandBoxMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/inheritance/animals/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/inheritance/animals/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/algorithsanddatastructure/algorithms/array_reverse/Array_Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/algorithsanddatastructure/algorithms/array_reverse/Array_Reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/circle/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/circle/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/enumerators/EnumClassExample3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/enumerators/EnumClassExample3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/objec_oriental/room/circle/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/objec_oriental/room/circle/CircleMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/circle/CircleMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentalscoding/practicalexercises/bookEndAuthors/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentalscoding/practicalexercises/bookEndAuthors/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/person/UserInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/person/UserInput.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,32 +258,27 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="AnnotationType" />
-        <option value="Enum" />
+        <option value="FxmlFile" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/file_write/Example1.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
-        <option name="jdkForImporter" value="1.8" />
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
-  </component>
-  <component name="MavenRunner">
-    <option name="jreName" value="1.8" />
   </component>
   <component name="ProjectId" id="1SjdnV7RMDjvD5pknFkGTnLaNRh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -64,21 +288,32 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java-basics/src/object_oriented/exercise1/Glosary_Shopping_Main.java" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/visitor" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="lt.sdacademy.pasikartojimas.objektas_gyvunai" />
-      <recent name="fundamentals.mockito" />
+      <recent name="lt.sdacademy.advanced_features.streams.exercises.personaldata" />
+      <recent name="lt.sdacademy.advanced_features.json.toJson" />
+      <recent name="lt.sdacademy.advanced_features.generics.exercise1" />
+      <recent name="lt.sdacademy.advanced_features.annotations.depricated" />
       <recent name="lt.sdacademy.homeWork2" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/visitor" />
+      <recent name="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/command" />
+      <recent name="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral" />
+      <recent name="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/bridge" />
+      <recent name="$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/creational/structural" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="C:\Users\Emilija\IdeaProjects\FirstProject\src\main\java\lt\sdacademy\fundamentalscoding\practicalexercises\averagescalculator" />
       <recent name="C:\Users\Emilija\IdeaProjects\FirstProject\src\main\java\lt\sdacademy\homeWork2\car" />
       <recent name="C:\Users\Emilija\IdeaProjects\FirstProject\src\test\resources\driver" />
@@ -88,20 +323,18 @@
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="&amp;" />
-      <command value="maven" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.EnumExampleMain">
-    <configuration name="AnimalsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.advanced_features.inheritance.animals.AnimalsMain" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.fundamentals.regex.Example1" />
       <module name="FirstProject" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EnumExampleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.fundamentals.enumerators.EnumExampleMain" />
-      <module name="FirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.sdacademy.fundamentals.regex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -119,36 +352,86 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.advanced_features_coding.advance.exercise5.map.Main" />
+      <module name="FirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.sdacademy.advanced_features_coding.advance.exercise5.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.advanced_features.object.pocket.Main" />
+      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.advanced_features_coding.advance.exercise2.Main" />
       <module name="FirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.sdacademy.advanced_features_coding.advance.exercise2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Map_Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.advanced_features.collections.Map_Example" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.advanced_features_coding.advance.exercise4.Main" />
       <module name="FirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.sdacademy.advanced_features_coding.advance.exercise4.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxValueSearchMain (1)" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.fundamentalscoding.practicalexercises.maxval.MaxValueSearchMain" />
+    <configuration name="PersonalDataMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.advanced_features.streams.exercises.personaldata.PersonalDataMain" />
       <module name="FirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.sdacademy.advanced_features.streams.exercises.personaldata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Set_Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.advanced_features.collections.Set_Example" />
+    <configuration name="PersonalInformation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.advanced_features_coding.advance.exercise3.PersonalInformation" />
       <module name="FirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.sdacademy.advanced_features_coding.advance.exercise3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerExampleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.fundamentals.file_read.scanner.ScannerExampleMain" />
+      <module name="FirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.sdacademy.fundamentals.file_read.scanner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="StartApplication" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.Main" />
+      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.sandbox.Main" />
       <module name="FirstProject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -156,11 +439,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EnumExampleMain" />
-        <item itemvalue="Application.Map_Example" />
-        <item itemvalue="Application.Set_Example" />
-        <item itemvalue="Application.AnimalsMain" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.ScannerExampleMain" />
+        <item itemvalue="Application.Example1" />
       </list>
     </recent_temporary>
   </component>
@@ -202,171 +485,172 @@
       </map>
     </option>
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="First Project" />
-    <MESSAGE value="Algorithms" />
-    <option name="LAST_COMMIT_MESSAGE" value="Algorithms" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="76" key="#Project_Structure" timestamp="1576394468635">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state x="588" y="214" width="800" height="677" key="#Java" timestamp="1579290328911">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="361" y="76" key="#Project_Structure/0.0.1536.826@0.0.1536.826" timestamp="1576394468635" />
-    <state x="538" y="224" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577659824124">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state x="588" y="214" width="800" height="677" key="#Java/67.27.1853.1053@67.27.1853.1053" timestamp="1579290328911" />
+    <state x="588" y="214" width="800" height="677" key="#Notifications" timestamp="1579290416086">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="538" y="224" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.826@0.0.1536.826" timestamp="1577659824124" />
-    <state x="574" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1578815306367">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state x="588" y="214" width="800" height="677" key="#Notifications/67.27.1853.1053@67.27.1853.1053" timestamp="1579290416086" />
+    <state x="588" y="214" width="800" height="677" key="#Project_Structure" timestamp="1579430534936">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="574" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1536.826@0.0.1536.826" timestamp="1578815306367" />
-    <state x="464" y="344" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1578780950061">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state x="588" y="214" width="800" height="677" key="#Project_Structure/67.27.1853.1053@67.27.1853.1053" timestamp="1579430534936" />
+    <state x="686" y="357" width="614" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582462736403">
+      <screen x="59" y="27" width="1861" height="1053" />
     </state>
-    <state x="464" y="344" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.826@0.0.1536.826" timestamp="1578780950061" />
-    <state x="523" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1578815123740">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state x="686" y="357" width="614" height="390" key="#com.intellij.fileTypes.FileTypeChooser/59.27.1861.1053@59.27.1861.1053" timestamp="1582462736403" />
+    <state x="691" y="357" width="594" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1579468021953" />
+    <state x="1001" y="278" width="548" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1582464436911">
+      <screen x="59" y="27" width="1861" height="1053" />
     </state>
-    <state x="523" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.826@0.0.1536.826" timestamp="1578815123740" />
-    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578352924126">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state x="1001" y="278" width="548" height="562" key="#com.intellij.ide.util.MemberChooser/59.27.1861.1053@59.27.1861.1053" timestamp="1582464436911" />
+    <state x="801" y="264" width="548" height="757" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1580074558810" />
+    <state x="443" y="480" width="1163" height="145" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1580651795294">
+      <screen x="59" y="27" width="1861" height="1053" />
     </state>
-    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.826@0.0.1536.826" timestamp="1578352924126" />
-    <state x="335" y="13" key="CommitChangelistDialog2" timestamp="1578781577122">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state x="443" y="480" width="1163" height="145" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/59.27.1861.1053@59.27.1861.1053" timestamp="1580651795294" />
+    <state x="449" y="480" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579435376935" />
+    <state x="669" y="412" width="714" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582460233132">
+      <screen x="59" y="27" width="1861" height="1053" />
     </state>
-    <state x="335" y="13" key="CommitChangelistDialog2/0.0.1536.826@0.0.1536.826" timestamp="1578781577122" />
-    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1577043748509">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state x="669" y="412" width="714" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/59.27.1861.1053@59.27.1861.1053" timestamp="1582460233132" />
+    <state x="676" y="412" width="716" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/67.27.1853.1053@67.27.1853.1053" timestamp="1579423387674" />
+    <state x="294" y="65" width="517" height="903" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581165836318">
+      <screen x="59" y="27" width="1861" height="1053" />
     </state>
-    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.826@0.0.1536.826" timestamp="1577043748509" />
-    <state width="1492" height="147" key="GridCell.Tab.0.bottom" timestamp="1578823650823">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state x="294" y="65" width="517" height="903" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/59.27.1861.1053@59.27.1861.1053" timestamp="1581165836318" />
+    <state x="301" y="65" width="476" height="975" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579438902629" />
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579423656999">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1492" height="147" key="GridCell.Tab.0.bottom/0.0.1536.826@0.0.1536.826" timestamp="1578823650823" />
-    <state width="1492" height="147" key="GridCell.Tab.0.center" timestamp="1578823650822">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579423656999" />
+    <state x="925" y="367" key="#xdebugger.evaluate" timestamp="1581237927901">
+      <screen x="59" y="27" width="1861" height="1053" />
     </state>
-    <state width="1492" height="147" key="GridCell.Tab.0.center/0.0.1536.826@0.0.1536.826" timestamp="1578823650822" />
-    <state width="1492" height="147" key="GridCell.Tab.0.left" timestamp="1578823650822">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state x="925" y="367" key="#xdebugger.evaluate/59.27.1861.1053@59.27.1861.1053" timestamp="1581237927901" />
+    <state x="543" y="149" width="883" height="807" key="CommitChangelistDialog2" timestamp="1581966834946">
+      <screen x="59" y="27" width="1861" height="1053" />
     </state>
-    <state width="1492" height="147" key="GridCell.Tab.0.left/0.0.1536.826@0.0.1536.826" timestamp="1578823650822" />
-    <state width="1492" height="147" key="GridCell.Tab.0.right" timestamp="1578823650822">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state x="543" y="149" width="883" height="807" key="CommitChangelistDialog2/59.27.1861.1053@59.27.1861.1053" timestamp="1581966834946" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1580158452049">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1492" height="147" key="GridCell.Tab.0.right/0.0.1536.826@0.0.1536.826" timestamp="1578823650822" />
-    <state width="1478" height="251" key="GridCell.Tab.1.bottom" timestamp="1578742974644">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1580158452049" />
+    <state width="1815" height="311" key="GridCell.Tab.0.bottom" timestamp="1582466711040">
+      <screen x="59" y="27" width="1861" height="1053" />
     </state>
-    <state width="1478" height="251" key="GridCell.Tab.1.bottom/0.0.1536.826@0.0.1536.826" timestamp="1578742974644" />
-    <state width="1478" height="251" key="GridCell.Tab.1.center" timestamp="1578742974644">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state width="1815" height="311" key="GridCell.Tab.0.bottom/59.27.1861.1053@59.27.1861.1053" timestamp="1582466711040" />
+    <state width="1807" height="174" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1580161394635" />
+    <state width="1815" height="311" key="GridCell.Tab.0.center" timestamp="1582466711040">
+      <screen x="59" y="27" width="1861" height="1053" />
     </state>
-    <state width="1478" height="251" key="GridCell.Tab.1.center/0.0.1536.826@0.0.1536.826" timestamp="1578742974644" />
-    <state width="1478" height="251" key="GridCell.Tab.1.left" timestamp="1578742974644">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state width="1815" height="311" key="GridCell.Tab.0.center/59.27.1861.1053@59.27.1861.1053" timestamp="1582466711040" />
+    <state width="1807" height="174" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1580161394634" />
+    <state width="1815" height="311" key="GridCell.Tab.0.left" timestamp="1582466711040">
+      <screen x="59" y="27" width="1861" height="1053" />
     </state>
-    <state width="1478" height="251" key="GridCell.Tab.1.left/0.0.1536.826@0.0.1536.826" timestamp="1578742974644" />
-    <state width="1478" height="251" key="GridCell.Tab.1.right" timestamp="1578742974644">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state width="1815" height="311" key="GridCell.Tab.0.left/59.27.1861.1053@59.27.1861.1053" timestamp="1582466711040" />
+    <state width="1807" height="174" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1580161394634" />
+    <state width="1815" height="311" key="GridCell.Tab.0.right" timestamp="1582466711040">
+      <screen x="59" y="27" width="1861" height="1053" />
     </state>
-    <state width="1478" height="251" key="GridCell.Tab.1.right/0.0.1536.826@0.0.1536.826" timestamp="1578742974644" />
-    <state x="279" y="0" key="SettingsEditor" timestamp="1576405793892">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state width="1815" height="311" key="GridCell.Tab.0.right/59.27.1861.1053@59.27.1861.1053" timestamp="1582466711040" />
+    <state width="1807" height="174" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1580161394635" />
+    <state width="1815" height="344" key="GridCell.Tab.1.bottom" timestamp="1582378146334">
+      <screen x="59" y="27" width="1861" height="1053" />
     </state>
-    <state x="279" y="0" key="SettingsEditor/0.0.1536.826@0.0.1536.826" timestamp="1576405793892" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1578781789513">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state width="1815" height="344" key="GridCell.Tab.1.bottom/59.27.1861.1053@59.27.1861.1053" timestamp="1582378146334" />
+    <state width="1815" height="344" key="GridCell.Tab.1.center" timestamp="1582378146334">
+      <screen x="59" y="27" width="1861" height="1053" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.826@0.0.1536.826" timestamp="1578781789513" />
-    <state x="477" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1578812330125">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state width="1815" height="344" key="GridCell.Tab.1.center/59.27.1861.1053@59.27.1861.1053" timestamp="1582378146334" />
+    <state width="1815" height="344" key="GridCell.Tab.1.left" timestamp="1582378146334">
+      <screen x="59" y="27" width="1861" height="1053" />
     </state>
-    <state x="477" y="242" key="com.intellij.ide.util.TipDialog/0.0.1536.826@0.0.1536.826" timestamp="1578812330125" />
-    <state x="580" y="333" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578781868139">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state width="1815" height="344" key="GridCell.Tab.1.left/59.27.1861.1053@59.27.1861.1053" timestamp="1582378146334" />
+    <state width="1815" height="344" key="GridCell.Tab.1.right" timestamp="1582378146334">
+      <screen x="59" y="27" width="1861" height="1053" />
     </state>
-    <state x="580" y="333" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.826@0.0.1536.826" timestamp="1578781868139" />
-    <state x="477" y="40" key="refactoring.ChangeSignatureDialog" timestamp="1578436441646">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state width="1815" height="344" key="GridCell.Tab.1.right/59.27.1861.1053@59.27.1861.1053" timestamp="1582378146334" />
+    <state x="572" y="298" width="824" height="508" key="IDE.errors.dialog" timestamp="1581163600660">
+      <screen x="59" y="27" width="1861" height="1053" />
     </state>
-    <state x="477" y="40" key="refactoring.ChangeSignatureDialog/0.0.1536.826@0.0.1536.826" timestamp="1578436441646" />
-    <state x="425" y="183" width="672" height="677" key="run.anything.popup" timestamp="1577481980090">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state x="572" y="298" width="824" height="508" key="IDE.errors.dialog/59.27.1861.1053@59.27.1861.1053" timestamp="1581163600660" />
+    <state x="522" y="210" width="924" height="684" key="Maven.ArtifactSearchDialog" timestamp="1581195413147">
+      <screen x="59" y="27" width="1861" height="1053" />
     </state>
-    <state x="425" y="183" width="672" height="677" key="run.anything.popup/0.0.1536.826@0.0.1536.826" timestamp="1577481980090" />
-    <state x="431" y="147" width="672" height="678" key="search.everywhere.popup" timestamp="1576404455915">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state x="522" y="210" width="924" height="684" key="Maven.ArtifactSearchDialog/59.27.1861.1053@59.27.1861.1053" timestamp="1581195413147" />
+    <state x="698" y="268" width="580" height="568" key="MultipleFileMergeDialog" timestamp="1578824787510">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="431" y="147" width="672" height="678" key="search.everywhere.popup/0.0.1536.826@0.0.1536.826" timestamp="1576404455915" />
+    <state x="698" y="268" width="580" height="568" key="MultipleFileMergeDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1578824787510" />
+    <state x="476" y="187" key="SettingsEditor" timestamp="1581234312675">
+      <screen x="59" y="27" width="1861" height="1053" />
+    </state>
+    <state x="476" y="187" key="SettingsEditor/59.27.1861.1053@59.27.1861.1053" timestamp="1581234312675" />
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1579294098462" />
+    <state x="644" y="380" width="688" height="342" key="com.intellij.ide.util.TipDialog" timestamp="1582662589770">
+      <screen x="59" y="27" width="1861" height="1053" />
+    </state>
+    <state x="644" y="380" width="688" height="342" key="com.intellij.ide.util.TipDialog/59.27.1861.1053@59.27.1861.1053" timestamp="1582662589770" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1580500252937" />
+    <state x="761" y="472" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578824778080">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="761" y="472" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1578824778080" />
+    <state x="377" y="291" width="1215" height="522" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1581237992341">
+      <screen x="59" y="27" width="1861" height="1053" />
+    </state>
+    <state x="377" y="291" width="1215" height="522" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/59.27.1861.1053@59.27.1861.1053" timestamp="1581237992341" />
+    <state x="308" y="150" width="869" height="804" key="find.popup" timestamp="1579427115202">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="308" y="150" width="869" height="804" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1579427115202" />
+    <state x="689" y="181" width="598" height="743" key="refactoring.ChangeSignatureDialog" timestamp="1580332992662">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="689" y="181" width="598" height="743" key="refactoring.ChangeSignatureDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1580332992662" />
+    <state x="652" y="198" width="673" height="676" key="search.everywhere.popup" timestamp="1581194080526">
+      <screen x="59" y="27" width="1861" height="1053" />
+    </state>
+    <state x="652" y="198" width="673" height="676" key="search.everywhere.popup/59.27.1861.1053@59.27.1861.1053" timestamp="1581194080526" />
+    <state x="657" y="198" width="670" height="676" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1579205852043" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/controlflow/switch_case/Example1.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/command/Command.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lt/sdacademy/designpatterns/structural/behavioral/strategy/example/Strategy.java</url>
           <line>2</line>
-          <option name="timeStamp" value="1" />
+          <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/file_read/scanner/ScannerExampleMain.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="3" />
+          <url>file://$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/streams/exercises/personaldata/PersonalDataMain.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/file_write/Example1.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features/deliveries/DeliveriesMain.java</url>
           <line>9</line>
-          <option name="timeStamp" value="11" />
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentalscoding/practicalexercises/bookEndAuthors/BookAndAuthorsMain.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentalscoding/practicalexercises/worker/WorkersMain.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/lt/sdacademy/pasikartojimas/kalendorius.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/lt/sdacademy/pasikartojimas/enumeratorius/KompiuteriaIMain.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features_coding/advance/exercise2/Products</url>
           <line>2</line>
-          <option name="timeStamp" value="15" />
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/lt/sdacademy/pasikartojimas/failo_rasymas/Failo_Rasymas.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/file_read/bufferedreader/BufferedReaderExampleMain.java</url>
-          <line>11</line>
-          <properties class="lt.sdacademy.fundamentals.file_read.bufferedreader.BufferedReaderExampleMain" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/lt/sdacademy/homeWork2/car/CarMain.java</url>
-          <line>7</line>
-          <properties class="lt.sdacademy.homeWork2.car.CarMain" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentalscoding/practicalexercises/worker/WorkersMain.java</url>
-          <line>14</line>
-          <properties class="lt.sdacademy.fundamentalscoding.practicalexercises.worker.WorkersMain" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="10" />
+          <url>file://$PROJECT_DIR$/src/main/java/lt/sdacademy/advanced_features_coding/advance/exercise4/services/IOService.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

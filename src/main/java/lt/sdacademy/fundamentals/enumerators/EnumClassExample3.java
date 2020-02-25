@@ -11,11 +11,11 @@ public enum EnumClassExample3 {
 
     private final String carName;
     private final boolean runAndDrive;
-    private static final Map<String, EnumClassExample3> enumByCarName = new HashMap<>();
+    private static final Map<String, EnumClassExample3> enumByCarName = new HashMap<>(); // STRING - KEY
 
     static {
         for (EnumClassExample3 enumValue : values()) {
-            enumByCarName.put(enumValue.carName, enumValue);
+            enumByCarName.put(enumValue.carName, enumValue); // Value - visa eilute grazina,
         }
     }
     EnumClassExample3 (String carName, boolean runAndDrive){
