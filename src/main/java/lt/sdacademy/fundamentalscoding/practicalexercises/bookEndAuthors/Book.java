@@ -7,9 +7,9 @@ public class Book {
     private String title;
     private List<Author> authors;
     private Double price;
-    private Integer qnt;
+    private int qnt;
 
-    public Book(String title, List<Author> authors, Double price, Integer qnt) {
+    public Book(String title, List<Author> authors, Double price, int qnt) {
 
         this.title = title;
         this.authors = authors;
@@ -17,13 +17,14 @@ public class Book {
         this.qnt = qnt; // kiekis
     }
 
-   /* public String getTitle() {
+    public String getTitle() {
         return title;
     }
 
-    public String getAuthor() {
-        return author;
+    public List<Author> getAuthors() {
+        return authors;
     }
+
 
     public double getPrice() {
         return price;
@@ -31,7 +32,7 @@ public class Book {
 
     public int getQnt() {
         return qnt;
-    }*/
+    }
 
     @Override
     public String toString() {

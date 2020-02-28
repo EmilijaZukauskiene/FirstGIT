@@ -4,7 +4,7 @@ public class Dog extends Animal {
     private String color;
 
     public Dog (boolean mammal, String voice, String color) {
-        super(mammal, voice);
+        super(mammal, voice); // SUPER - issikvieciam is motinines klases MAMMAL ir VOISE
         this.color = color;
     }
 }
